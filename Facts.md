@@ -770,3 +770,5 @@ However if Smeargle uses Sketch to copy Techno Blast, it will permanently learn 
 #365. In Generations II & III, as well as in its official artwork, and the majority of its TCG appearances, Mantine is shown with a Remoraid attached it. From Generation IV onwards its in-game sprite is shown without a Remoraid.
 
 However it’s artwork for Pokémon HOME (which is based on its official artwork) once again shows a Remoraid attached to Mantine, and for the first time, if the Mantine is Shiny, the Remoraid will also be Shiny.
+
+#366. In the data of Pokémon Ruby, Sapphire, and Emerald exists an unused set of overworld sprites. The spriteset is an updated version (albeit stretched) of the Wrestler (プランプ/Plump) from Game Freak’s 1989 debut game, Quinty (Mendel Palace internationaly).
